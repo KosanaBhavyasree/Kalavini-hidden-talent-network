@@ -1,0 +1,47 @@
+.skill-details-container {
+  background: #f8f6ff;
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.back-btn {
+  background: #5a189a;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 25px;
+}
+
+.back-btn:hover {
+  background: #7b2cbf;
+}
+
+.skill-details-card {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  border-radius: 20px;
+  padding: 35px;
+  box-shadow: 0 8px 25px rgba(0,0,0,.08);
+}
+
+.skill-details-card h1 {
+  color: #5a189a;
+  margin-bottom: 8px;
+}
+
+.skill-details-card h3 {
+  color: #e8a317;
+  margin: 20px 0 10px;
+}
+
+.skill-details-card p {
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+.skill-details-card hr {
+  margin: 25px 0;
+}
